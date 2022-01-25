@@ -1,0 +1,6 @@
+$ git add .
+$ git commit -m '第二次提交'
+$ git remote add origin https://github.com/HeTonny/HeTonny-Loves.github.io.git
+$ git push -u origin master
+username:heTonny
+password:h+tel
